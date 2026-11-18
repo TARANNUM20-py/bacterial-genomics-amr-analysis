@@ -1,0 +1,13 @@
+name: bioinfo_day13
+channels:
+  - conda-forge
+dependencies:
+  - seqkit
+  - openjdk=17
+  - fastqc
+  - multiqc
+  - nextflow
+  - python=3.11
+  - matplotlib
+  - pandas
+prefix: /home/sheefa/miniforge3/envs/bioinfo_day13
